@@ -1,0 +1,42 @@
+Data contains all the meta information regarding the columns described in the  CSV files 
+Column Description of the Dataset: 
+
+Type: Type Count  
+Days for shipping (real): Product shipment days
+Days for shipment (scheduled): product getting prepared for shipment 
+Benefit per item: profit earned per product   
+Sales per customer: No of products purchased by the customer
+Delivery: Products delivery date.
+Late_delivery_risk: percentage of late delivery risk 
+Category Id: product category ID
+Category: product category
+Customer City: Customer purchase city
+Customer Country: Customer purchase country
+Customer Email: Customer purchase Email
+Customer Fname: Customer First name.
+Customer ID: Customer order ID
+Customer Lname: Customer's last name
+Customer Segment: Types of Customer 
+Customer State: Customer order state
+Customer Street: Customer address
+Customer Zipcode: Customer area code.
+Market: top 10 country Market 
+Order City: Customer purchase city
+Order Country: Customer purchase country
+Order Customer ID: Customer 
+order date (DateOrders): Customer order date
+Order Item Product Price: product price
+Order Item Profit Ratio: profit ratio
+Order Item Quantity: No of orders placed
+Sales: total no of sales
+Order Item Total: total price of the order placed
+Order Profit Per: product
+Order Region: order placed region
+Order State: order placed State
+Order Status: order delivery status
+Order Zipcode: customer area code
+Product Card ID: product number
+Product Category Id: a product whose category belongs to
+Product: what product 
+Product Image: image of the product
+Product Price: Price of the product.
